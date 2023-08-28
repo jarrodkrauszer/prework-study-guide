@@ -29,4 +29,8 @@ listTopics();
 console.log('Which topic should we study first?');
 selectTopic();
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1ce7babb5dc6b6059ed61b7d8ea90659de5c82cf
 
